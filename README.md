@@ -8,11 +8,7 @@
 ---
 
 ## 🚀 Mis Habilidades
-
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32"
-src="https://static 00.iconduck.com/assets.00/c-sharp-c-icon-912x1024-j3yidw37.png" alt="c-sharp" />
-</code
+[![Mis Habilidades](https://skillicons.dev/icons?i=py,cs,git,github,vscode,sqlite)](https://skillicons.dev)
 ---
 
 ## ⭐ GitHub
