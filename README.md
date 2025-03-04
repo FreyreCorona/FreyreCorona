@@ -2,11 +2,10 @@
 
 ## 💜 Hola, mi nombre es  Einier Freyre! 
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudiando constantemente para ser cada día melhor.
-- 💼 Trabajando como Freelancer actualmente.
-- 🌱 Aprendendo mais sobre IA e MachineLearning.
----
+- 🤔 *Explorador de Tecnologia*: Siempre en busca de nuevas tecnologias para aprender e integrar en m8s proyectos.
+- 🎓 *Aprendiz*: Estudiando constantemente para aprimorar mis habilidades y ser mejor cada dia.
+- 💼 *Freelancer Activo*: Actualmente trabajando como freelancer, ajudando empresas e indivíduos a transformar ideas en realidad.
+- 🌱 *Entusiasta de IA e Machine Learning*: Fascinado por el mundo de la Inteligencia Artificial y Machine Learning, buscando aprender y aplicar esos conocimentos en mis proyectos.
 
 ## 🚀 Mis Habilidades
 [![Mis Habilidades](https://skillicons.dev/icons?i=py,cs,git,github,vscode,sqlite)](https://skillicons.dev)
