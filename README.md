@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 💜 Hola, mi nombre es  Einier Freyre! 
+## 💜 Hello, my name is Einier Freyre!
 
-- 🤔 *Explorador de Tecnologia*: Siempre en busca de nuevas tecnologias para aprender e integrar en m8s proyectos.
-- 🎓 *Aprendiz*: Estudiando constantemente para aprimorar mis habilidades y ser mejor cada dia.
-- 💼 *Freelancer Activo*: Actualmente trabajando como freelancer, ajudando empresas e indivíduos a transformar ideas en realidad.
-- 🌱 *Entusiasta de IA e Machine Learning*: Fascinado por el mundo de la Inteligencia Artificial y Machine Learning, buscando aprender y aplicar esos conocimentos en mis proyectos.
+- 🤔 *Technology Explorer*: Always seeking new technologies to learn and integrate into my projects.
+- 🎓 *Learner*: Constantly studying to improve my skills and be better every day.
+- 💼 *Active Freelancer*: Currently working as a freelancer, helping companies and individuals turn ideas into reality.
+- 🌱 *AI & Machine Learning Enthusiast*: Fascinated by the world of Artificial Intelligence and Machine Learning, seeking to learn and apply this knowledge in my projects.
 
-## 🚀 Mis Habilidades
-[![Mis Habilidades](https://skillicons.dev/icons?i=py,cs,git,github,neovim,sqlite,docker,arch,)](https://skillicons.dev)
+## 🚀 My Skills
+[![Mis Habilidades](https://skillicons.dev/icons?i=py,cs,git,github,sqlite,docker,)](https://skillicons.dev)
 ---
 
 ## ⭐ GitHub
@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-## 🌎 Contactame
+## 🌎 Contact me
 <p align="left">
   <a href="einierfreyre60@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="einierfreyre60@gmail.com" alt="Gmail"/></a>
