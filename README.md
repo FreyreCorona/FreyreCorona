@@ -17,7 +17,7 @@
     <td>
       <img
         align="left"
-      ![GitHub Stats] src="https://github-readme-stats.vercel.app/api?username=FreyreCorona&show_icons=true&cache_seconds=0"
+      ![GitHub Stats] src="https://github-readme-stats.vercel.app/api?username=FreyreCorona&show_icons=true"
       />
     </td>
     <td>
