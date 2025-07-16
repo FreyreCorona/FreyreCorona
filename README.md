@@ -32,8 +32,14 @@
 ## 🌎 Contact me
 <p align="left">
   <a href="einierfreyre60@gmail.com" title="Gmail">
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
+  <img
+  ![Gmail] src="https://skillicons.dev/icons?i=gmail&theme=light"
+    />
+  </a>
   <a href="https://www.linkedin.com/in/einier-freyre-896981220" title="LinkedIn">
-  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
+    <img 
+  ![Linkedin] src="https://skillicons.dev/icons?i=linkedin"
+      />
+  </a>
 
 </p>
