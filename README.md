@@ -8,7 +8,7 @@
 - 🌱 *AI & Machine Learning Enthusiast*: Fascinated by the world of Artificial Intelligence and Machine Learning, seeking to learn and apply this knowledge in my projects.
 
 ## 🚀 My Skills
-[![Mis Habilidades](https://skillicons.dev/icons?i=py,cs,git,github,sqlite,docker,)](https://skillicons.dev)
+[![Mis Habilidades](https://skillicons.dev/icons?i=py,django,fastapi,cs,git,github,githubactions,sqlite,postgres,docker,linux,neovim,arch&perline=5)](https://skillicons.dev)
 ---
 
 ## ⭐ GitHub
@@ -32,8 +32,8 @@
 ## 🌎 Contact me
 <p align="left">
   <a href="einierfreyre60@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="einierfreyre60@gmail.com" alt="Gmail"/></a>
+  ![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
   <a href="https://www.linkedin.com/in/einier-freyre-896981220" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/einier-freyre-896981220" alt="LinkedIn"/></a>
+  ![Gmail](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
 
 </p>
