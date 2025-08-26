@@ -8,7 +8,7 @@
 - 🌱 *AI & Machine Learning Enthusiast*: Fascinated by the world of Artificial Intelligence and Machine Learning, seeking to learn and apply this knowledge in my projects.
 
 ## 🚀 My Skills
-[![Mis Habilidades](https://skillicons.dev/icons?i=cs,py,go,git,githubactions,sqlite,postgres,docker)](https://skillicons.dev)
+[![Mis Habilidades](https://skillicons.dev/icons?i=go,py,git,githubactions,sqlite,postgres,docker)](https://skillicons.dev)
 
 ## 🚀 My stack
 [![Mis herramientas](https://skillicons.dev/icons?i=github,linux,neovim,arch)](https://skillicons.dev)
