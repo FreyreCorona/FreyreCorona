@@ -10,7 +10,7 @@
 ## 🚀 My Skills
 [![Mis Habilidades](https://skillicons.dev/icons?i=go,py,git,githubactions,sqlite,postgres,docker)](https://skillicons.dev)
 
-## 🚀 My stack
+## 🚀 My development tools/environment
 [![Mis herramientas](https://skillicons.dev/icons?i=github,linux,neovim,arch)](https://skillicons.dev)
 
 ## ⭐ GitHub
