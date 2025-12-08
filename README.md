@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 💜 Hello, my name is Einier Freyre!
+## Hello, my name is Einier Freyre!
 
 - 🤔 *Technology Explorer*: Always seeking new technologies to learn and integrate into my projects.
 - 🎓 *Learner*: Constantly studying to improve my skills and be better every day.
 - 💼 *Active Freelancer*: Currently working as a freelancer, helping companies and individuals turn ideas into reality.
-- 🌱 *AI & Machine Learning Enthusiast*: Fascinated by the world of Artificial Intelligence and Machine Learning, seeking to learn and apply this knowledge in my projects.
+- 💻 *Backend Developer*: Designing and building scalable systems using best practices and SOLID principles.
+- 🛠️ *Problem Solver*: Tackling complex challenges while optimizing performance and efficiency.
 
 ## 🚀 My Skills
 [![Mis Habilidades](https://skillicons.dev/icons?i=go,py,git,githubactions,sqlite,postgres,docker)](https://skillicons.dev)
