@@ -20,13 +20,13 @@
     <td>
       <img
         align="left"
-      ![GitHub Stats] src="https://github-readme-stats.vercel.app/api?username=FreyreCorona&show_icons=true"
+      ![GitHub Stats] src="https://github-readme-stats-eight-theta.vercel.app/api?username=FreyreCorona&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"
       />
     </td>
     <td>
       <img
         align="right"
-      ![GitHub Languages] src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreyreCorona&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+      ![GitHub Languages] src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FreyreCorona&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"
       />
     </td>
   </tr>
