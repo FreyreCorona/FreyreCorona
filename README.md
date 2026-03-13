@@ -19,17 +19,18 @@ Backend developer focused on building reliable, maintainable and well-designed s
     <td>
       <img
         align="left"
-      ![GitHub Stats] src="https://github-readme-stats-eight-theta.vercel.app/api?username=FreyreCorona&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      ![GitHub Stats] src="https://github-readme-stats-eight-theta.vercel.app/api?username=FreyreCorona&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&rank_icon=percentile"
       />
     </td>
     <td>
       <img
         align="right"
-      ![GitHub Languages] src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FreyreCorona&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      ![GitHub Languages] src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FreyreCorona&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"
       />
     </td>
   </tr>
 </table>
+
 
 ## 🌎 Contact me
 <p align="left">
