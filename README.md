@@ -11,7 +11,7 @@ Backend developer focused on building reliable, maintainable and well-designed s
 - 📚 Continuous learning: Exploring new technologies, languages and system design concepts to refine my craft.
 
 ## 🚀 My Skills
-[![Mis Habilidades](https://skillicons.dev/icons?i=go,py,git,githubactions,sqlite,postgres,docker)](https://skillicons.dev)
+[![Mis Habilidades](https://skillicons.dev/icons?i=go,py,git,githubactions,sqlite,postgres,docker,kubernetes)](https://skillicons.dev)
 
 ## ⭐ GitHub
 <table>
