@@ -35,10 +35,9 @@ Backend Engineer focused on distributed systems, cloud-native infrastructure and
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img height="170em" src="[https://github-readme-stats.vercel.app/api?username=FreyreCorona&show_icons=true&theme=transparent&include_all_commits=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=FreyreCorona&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&rank_icon=percentile)" />
-  <img height="170em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=FreyreCorona&layout=compact&theme=transparent](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FreyreCorona&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)" />
-  
+   <table> <tr> <td> <img align="left" ![GitHub Stats] src="https://github-readme-stats-eight-theta.vercel.app/api?username=FreyreCorona&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&rank_icon=percentile" /> </td> <td> <img align="right" ![GitHub Languages] src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FreyreCorona&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" /> </td> </tr> </table>
 </p>
+
 
 ## 🌐 Contact
 
