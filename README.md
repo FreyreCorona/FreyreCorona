@@ -1,48 +1,46 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# Einier Freyre
 
-## Hello, I'm Einier Freyre
+Backend Engineer focused on distributed systems, cloud-native infrastructure and reliable backend architectures built with Go.
 
-Backend developer focused on building reliable, maintainable and well-designed systems.
+## 🔍 Focus Areas
 
-- 🧠 Software design: Strong focus on SOLID principles, clean architecture and maintainable codebases.
-- ⚙️ Backend engineering: Designing APIs and backend services with scalability, clarity and performance in mind.
-- 🛠 System thinking: I enjoy turning complex requirements into simple and robust architectures.
-- 🏗 Product-oriented development: Building software meant to run in production and evolve over time.
-- 📚 Continuous learning: Exploring new technologies, languages and system design concepts to refine my craft.
+- Distributed Systems
+- Backend Reliability
+- Cloud Infrastructure
+- Platform Engineering
+- Concurrent Processing
+- Service Communication
+- Kubernetes & Containerized Workloads
+- CI/CD & Deployment Automation
 
-## 🚀 My Skills
-[![Mis Habilidades](https://skillicons.dev/icons?i=go,py,git,githubactions,sqlite,postgres,docker,kubernetes)](https://skillicons.dev)
+## ⚙️ Engineering Profile
 
-## ⭐ GitHub
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-      ![GitHub Stats] src="https://github-readme-stats-eight-theta.vercel.app/api?username=FreyreCorona&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&rank_icon=percentile"
-      />
-    </td>
-    <td>
-      <img
-        align="right"
-      ![GitHub Languages] src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FreyreCorona&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"
-      />
-    </td>
-  </tr>
-</table>
+- Building backend services focused on scalability, fault tolerance and operational simplicity
+- Designing resilient service communication patterns and production-ready architectures
+- Working with containerized environments, Kubernetes and cloud-native workflows
+- Interested in observability, infrastructure automation and distributed system design
+- Contributing to backend and infrastructure-focused open source ecosystems
 
+## 🛠 Tech Stack
 
-## 🌎 Contact me
+[![My Skills](https://skillicons.dev/icons?i=go,py,postgres,redis,docker,kubernetes,terraform,aws,linux,githubactions)](https://skillicons.dev)
+
+## 🌍 Open Source
+
+- Contributed to Terraform provider repositories and infrastructure-related tooling
+- Contributions to the Caddy ecosystem
+- Active in cloud-native and backend engineering communities
+
+## 📊 GitHub Activity
+
 <p align="left">
-  <a href="einierfreyre60@gmail.com" title="Gmail">
-  <img
-  ![Gmail] src="https://skillicons.dev/icons?i=gmail&theme=light"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/einier-freyre-896981220" title="LinkedIn">
-    <img 
-  ![Linkedin] src="https://skillicons.dev/icons?i=linkedin"
-      />
-  </a>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FreyreCorona&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreyreCorona&layout=compact&theme=transparent" />
 </p>
+
+## 🌐 Contact
+
+- LinkedIn: https://www.linkedin.com/in/einier-freyre-896981220
+- GitHub: https://github.com/FreyreCorona
+- Email: einierfreyre60@gmail.com
