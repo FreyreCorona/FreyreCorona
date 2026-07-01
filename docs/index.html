@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Einier Freyre – Cloud & DevOps Consulting</title>
-  <meta name="description" content="Platform Engineer specializing in Cloud Infrastructure, DevOps, and Platform Automation. Consulting for scalable, resilient systems." />
+  <title>Einier Freyre – Cloud & Platform Engineering</title>
+  <meta name="description" content="Automatizo plataformas e infraestructuras Cloud para que tu equipo entregue más rápido y escale con menos fricción." />
   <link rel="stylesheet" href="css/style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
@@ -14,10 +14,12 @@
     <div class="container header-inner">
       <a href="/" class="logo">EF</a>
       <nav class="nav" id="nav">
-        <a href="#services" class="nav-link">Services</a>
-        <a href="#about" class="nav-link">About</a>
+        <a href="#about" class="nav-link">Sobre mí</a>
+        <a href="#problems" class="nav-link">Problemas</a>
+        <a href="#services" class="nav-link">Servicios</a>
+        <a href="#process" class="nav-link">Proceso</a>
         <a href="/blog/" class="nav-link">Blog</a>
-        <a href="#contact" class="nav-link btn-nav">Contact</a>
+        <a href="#contact" class="nav-link btn-nav">Contacto</a>
       </nav>
       <button class="menu-toggle" id="menuToggle" aria-label="Menu">
         <span></span><span></span><span></span>
@@ -27,100 +29,187 @@
 
   <section class="hero">
     <div class="container hero-content">
-      <div class="hero-badge">Available for consulting</div>
-      <h1 class="hero-title">Cloud & DevOps<br /><span class="gradient-text">Platform Engineering</span></h1>
+      <div class="hero-badge">Platform Engineer · Cloud & DevOps</div>
+      <h1 class="hero-title">Cloud &amp; <span class="gradient-text">Platform Engineering</span></h1>
       <p class="hero-subtitle">
-        I help businesses design, build, and operate cloud-native platforms —
-        from infrastructure automation to production observability.
+        Automatizo plataformas e infraestructuras Cloud para que tu equipo entregue más rápido
+        y escale con menos fricción.
       </p>
       <div class="hero-cta">
-        <a href="#contact" class="btn btn-primary">Let's talk</a>
-        <a href="#services" class="btn btn-secondary">What I do</a>
-      </div>
-    </div>
-  </section>
-
-  <section id="services" class="section">
-    <div class="container">
-      <h2 class="section-label">Services</h2>
-      <div class="services-grid">
-        <div class="service-card">
-          <div class="service-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 12L6 8M2 12L6 16M2 12H22M22 12L18 8M22 12L18 16"/><circle cx="12" cy="12" r="2"/></svg>
-          </div>
-          <h3>Cloud Infrastructure</h3>
-          <p>Terraform, Kubernetes, and automation-first provisioning across OCI and major cloud providers.</p>
-        </div>
-        <div class="service-card">
-          <div class="service-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 7V17C4 18.1046 4.89543 19 6 19H18C19.1046 19 20 18.1046 20 17V7M4 7L12 13L20 7M4 7C4 5.89543 4.89543 5 6 5H18C19.1046 5 20 5.89543 20 7"/></svg>
-          </div>
-          <h3>DevOps &amp; CI/CD</h3>
-          <p>GitOps with ArgoCD, automated pipelines with GitHub Actions, and streamlined deployment workflows.</p>
-        </div>
-        <div class="service-card">
-          <div class="service-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="3"/><path d="M12 1V5M12 19V23M5 12H1M23 12H19M18.36 5.64L15.54 8.46M8.46 15.54L5.64 18.36M18.36 18.36L15.54 15.54M8.46 8.46L5.64 5.64"/></svg>
-          </div>
-          <h3>Platform Automation</h3>
-          <p>Kubernetes operators, custom controllers, and internal platform tooling built in Go.</p>
-        </div>
-        <div class="service-card">
-          <div class="service-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 12H15M9 16H15M9 8H15M7 3H17C18.1046 3 19 3.89543 19 5V21L12 18L5 21V5C5 3.89543 5.89543 3 7 3Z"/></svg>
-          </div>
-          <h3>Observability</h3>
-          <p>Prometheus, Grafana dashboards, telemetry instrumentation, and production monitoring strategies.</p>
-        </div>
+        <a href="#contact" class="btn btn-primary">Hablemos</a>
+        <a href="#services" class="btn btn-secondary">Ver servicios</a>
       </div>
     </div>
   </section>
 
   <section id="about" class="section section-alt">
-    <div class="container about-grid">
-      <div class="about-text">
-        <h2 class="section-label">About</h2>
-        <p>
-          Platform Engineer with 6+ years building distributed systems. I specialize in cloud infrastructure,
-          Kubernetes, and Go — bridging the gap between development and operations to deliver reliable platforms.
-        </p>
-        <p>
-          I've led infrastructure migrations to IaC, built Kubernetes operators, implemented observability stacks,
-          and automated deployments end-to-end. Currently working at Colmena Technologies and running <strong>Fluxa</strong>,
-          a personal platform engineering project.
-        </p>
-        <div class="about-tech">
-          <span>Go</span><span>Terraform</span><span>Kubernetes</span><span>Docker</span>
-          <span>Prometheus</span><span>Grafana</span><span>CI/CD</span><span>OCI</span>
+    <div class="container about-content">
+      <h2 class="section-label">Sobre mí</h2>
+      <p class="about-text-lg">
+        Ayudo a pequeñas y medianas empresas a automatizar sus plataformas y mejorar su
+        infraestructura Cloud mediante prácticas de <strong>Platform Engineering</strong> y
+        <strong>DevOps</strong>.
+      </p>
+      <div class="about-grid">
+        <div class="about-item">
+          <span class="about-num">6+</span>
+          <span class="about-desc">años construyendo sistemas distribuidos</span>
         </div>
-      </div>
-      <div class="about-stats">
-        <div class="stat"><span class="stat-num">6+</span><span class="stat-label">Years building</span></div>
-        <div class="stat"><span class="stat-num">3</span><span class="stat-label">Cloud platforms</span></div>
-        <div class="stat"><span class="stat-num">20+</span><span class="stat-label">Projects delivered</span></div>
+        <div class="about-item">
+          <span class="about-num">100%</span>
+          <span class="about-desc">remoto · LATAM</span>
+        </div>
+        <div class="about-item">
+          <span class="about-num">Go</span>
+          <span class="about-desc">Terraform · Kubernetes · OCI</span>
+        </div>
+        <div class="about-item">
+          <span class="about-num">IaC</span>
+          <span class="about-desc">GitOps · Observabilidad · CI/CD</span>
+        </div>
       </div>
     </div>
   </section>
 
-  <section id="contact" class="section">
-    <div class="container contact-content">
-      <h2 class="section-label">Get in touch</h2>
-      <p class="contact-text">
-        Looking for cloud infrastructure consulting, DevOps setup, or platform architecture?
-        Let's talk about your next project.
+  <section id="problems" class="section">
+    <div class="container">
+      <h2 class="section-label">Problemas que resuelvo</h2>
+      <p class="section-desc">
+        Muchos clientes no saben que necesitan DevOps. Estos son los síntomas:
       </p>
-      <a href="mailto:freyre.dev@gmail.com" class="btn btn-primary btn-large">freyre.dev@gmail.com</a>
+      <div class="problems-grid">
+        <div class="problem-card">
+          <span class="problem-icon">01</span>
+          <h3>Despliegues lentos</h3>
+          <p>Deployar toma horas o días. El proceso es manual, propenso a errores y nadie quiere hacerlo.</p>
+        </div>
+        <div class="problem-card">
+          <span class="problem-icon">02</span>
+          <h3>Tareas manuales repetitivas</h3>
+          <p>Tu equipo pierde tiempo configurando servidores, actualizando dependencias y apagando incendios.</p>
+        </div>
+        <div class="problem-card">
+          <span class="problem-icon">03</span>
+          <h3>Costos Cloud sin control</h3>
+          <p>La factura crece cada mes y nadie sabe exactamente por qué. Recursos infrautilizados y sin visibilidad.</p>
+        </div>
+        <div class="problem-card">
+          <span class="problem-icon">04</span>
+          <h3>Infraestructura invisible</h3>
+          <p>Nadie entiende completamente la infraestructura. Documentación inexistente, configuración dispersa.</p>
+        </div>
+        <div class="problem-card">
+          <span class="problem-icon">05</span>
+          <h3>Miedo a desplegar</h3>
+          <p>Da miedo hacer deploy en producción. No hay rollbacks confiables, no hay tests, no hay confianza.</p>
+        </div>
+        <div class="problem-card">
+          <span class="problem-icon">06</span>
+          <h3>Equipo atascado en operaciones</h3>
+          <p>El equipo técnico pasa más tiempo operando que construyendo. El progreso se siente lento.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="services" class="section section-alt">
+    <div class="container">
+      <h2 class="section-label">Servicios</h2>
+      <div class="services-grid">
+        <div class="service-card">
+          <div class="service-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z"/></svg>
+          </div>
+          <h3>Auditoría Cloud</h3>
+          <p>Revisión completa de tu infraestructura, identificación de riesgos, fugas de costos y recomendaciones accionables.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 7V17C4 18.1046 4.89543 19 6 19H18C19.1046 19 20 18.1046 20 17V7M4 7L12 13L20 7M4 7C4 5.89543 4.89543 5 6 5H18C19.1046 5 20 5.89543 20 7"/></svg>
+          </div>
+          <h3>Implementación DevOps</h3>
+          <p>CI/CD, automatización, observabilidad, contenedores y Kubernetes. Tu equipo deploya con confianza y en minutos.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 12H15M9 16H15M9 8H15M7 3H17C18.1046 3 19 3.89543 19 5V21L12 18L5 21V5C5 3.89543 5.89543 3 7 3Z"/></svg>
+          </div>
+          <h3>Platform Engineering Fraccional</h3>
+          <p>Acompañamiento continuo, mejoras de plataforma, soporte estratégico y evolución de la infraestructura.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="process" class="section">
+    <div class="container">
+      <h2 class="section-label">Cómo trabajo</h2>
+      <div class="process-steps">
+        <div class="step">
+          <span class="step-num">1</span>
+          <h3>Conversación inicial</h3>
+          <p>Sin costo ni compromiso. Entiendo tu situación, tus dolores y lo que necesitas lograr.</p>
+        </div>
+        <div class="step">
+          <span class="step-num">2</span>
+          <h3>Diagnóstico</h3>
+          <p>Revisión de tu infraestructura, procesos y flujos actuales. Identifico oportunidades de mejora concretas.</p>
+        </div>
+        <div class="step">
+          <span class="step-num">3</span>
+          <h3>Propuesta</h3>
+          <p>Te presento un plan claro con alcance, tiempos e inversión. Sin sorpresas.</p>
+        </div>
+        <div class="step">
+          <span class="step-num">4</span>
+          <h3>Implementación</h3>
+          <p>Construyo, automatizo y documento. Trabajo iterativamente con entregas visibles desde la primera semana.</p>
+        </div>
+        <div class="step">
+          <span class="step-num">5</span>
+          <h3>Seguimiento</h3>
+          <p>Capacitación a tu equipo y acompañamiento. La plataforma queda operativa y tu equipo autónomo.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section section-alt">
+    <div class="container contact-content">
+      <h2 class="section-label">Contacto</h2>
+      <p class="contact-text">
+        Cuéntame qué necesitas y te preparo una propuesta a medida.
+        La conversación inicial es gratis y sin compromiso.
+      </p>
+      <form class="contact-form" action="https://formspree.io/f/xvovwqvb" method="POST">
+        <div class="form-row">
+          <input type="text" name="name" placeholder="Nombre" required />
+          <input type="email" name="email" placeholder="Email" required />
+        </div>
+        <input type="text" name="company" placeholder="Empresa (opcional)" />
+        <textarea name="message" rows="4" placeholder="¿Qué problema necesitas resolver?" required></textarea>
+        <button type="submit" class="btn btn-primary btn-large">Enviar mensaje</button>
+      </form>
       <div class="contact-links">
-        <a href="https://github.com/FreyreCorona" target="_blank" rel="noopener" class="contact-link">GitHub</a>
+        <a href="mailto:freyre.dev@gmail.com" class="contact-link">freyre.dev@gmail.com</a>
         <a href="https://www.linkedin.com/in/einier-freyre-896981220/" target="_blank" rel="noopener" class="contact-link">LinkedIn</a>
+        <a href="https://github.com/FreyreCorona" target="_blank" rel="noopener" class="contact-link">GitHub</a>
       </div>
     </div>
   </section>
 
   <footer class="footer">
     <div class="container footer-inner">
-      <span>&copy; 2026 Einier Freyre</span>
-      <a href="mailto:freyre.dev@gmail.com">freyre.dev@gmail.com</a>
+      <div class="footer-nav">
+        <a href="/">Inicio</a>
+        <a href="/blog/">Blog</a>
+        <a href="privacy.html">Privacidad</a>
+        <a href="terms.html">Términos</a>
+      </div>
+      <div class="footer-meta">
+        <span>&copy; 2026 Einier Freyre</span>
+        <a href="mailto:freyre.dev@gmail.com">freyre.dev@gmail.com</a>
+      </div>
     </div>
   </footer>
 

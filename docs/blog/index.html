@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Blog – Einier Freyre</title>
-  <meta name="description" content="Thoughts on platform engineering, cloud infrastructure, and DevOps." />
+  <meta name="description" content="Artículos sobre Platform Engineering, Cloud Infrastructure y DevOps." />
   <link rel="stylesheet" href="../css/style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
 </head>
@@ -13,11 +13,10 @@
     <div class="container header-inner">
       <a href="/" class="logo">EF</a>
       <nav class="nav" id="nav">
-        <a href="/" class="nav-link">Home</a>
-        <a href="/#services" class="nav-link">Services</a>
-        <a href="/#about" class="nav-link">About</a>
+        <a href="/" class="nav-link">Inicio</a>
+        <a href="/#services" class="nav-link">Servicios</a>
         <a href="/blog/" class="nav-link">Blog</a>
-        <a href="/#contact" class="nav-link btn-nav">Contact</a>
+        <a href="/#contact" class="nav-link btn-nav">Contacto</a>
       </nav>
       <button class="menu-toggle" id="menuToggle" aria-label="Menu">
         <span></span><span></span><span></span>
@@ -28,8 +27,8 @@
   <section class="hero" style="min-height:auto;padding:120px 0 60px">
     <div class="container" style="max-width:720px">
       <h2 class="section-label">Blog</h2>
-      <h1 class="hero-title" style="font-size:clamp(32px,5vw,48px)">Platform Engineering<br /><span class="gradient-text">Notes &amp; Insights</span></h1>
-      <p class="hero-subtitle">Thoughts on cloud infrastructure, DevOps, Kubernetes, and building platforms that scale.</p>
+      <h1 class="hero-title" style="font-size:clamp(32px,5vw,48px)">Platform Engineering<br /><span class="gradient-text">Notas e Insights</span></h1>
+      <p class="hero-subtitle">Artículos sobre Cloud Infrastructure, DevOps, Kubernetes y automatización de plataformas.</p>
     </div>
   </section>
 
@@ -37,26 +36,34 @@
     <div class="container" style="max-width:720px">
       <div class="service-card" style="margin-bottom:16px">
         <h3 style="margin-bottom:4px">Building a Kubernetes Operator in Go with Kubebuilder</h3>
-        <span style="font-size:12px;color:var(--text-muted)">Coming soon</span>
-        <p style="margin-top:12px">Walkthrough on scaffolding a custom operator, implementing CRDs, finalizers, and leader election for resource-constrained clusters.</p>
+        <span style="font-size:12px;color:var(--text-muted)">Próximamente</span>
+        <p style="margin-top:12px">Walkthrough sobre cómo crear un operador personalizado, implementar CRDs, finalizers y leader election.</p>
       </div>
       <div class="service-card" style="margin-bottom:16px">
-        <h3 style="margin-bottom:4px">From 5 Days to 1 Hour: Migrating to Infrastructure as Code</h3>
-        <span style="font-size:12px;color:var(--text-muted)">Coming soon</span>
-        <p style="margin-top:12px">How Terraform + Cloud Init transformed our provisioning workflow and what we learned along the way.</p>
+        <h3 style="margin-bottom:4px">De 5 días a 1 hora: migrando a Infrastructure as Code</h3>
+        <span style="font-size:12px;color:var(--text-muted)">Próximamente</span>
+        <p style="margin-top:12px">Cómo Terraform + Cloud Init transformaron nuestro provisioning y las lecciones aprendidas.</p>
       </div>
       <div class="service-card">
-        <h3 style="margin-bottom:4px">Observability Stack on a Budget: Prometheus + Grafana for Small Teams</h3>
-        <span style="font-size:12px;color:var(--text-muted)">Coming soon</span>
-        <p style="margin-top:12px">Practical guide to setting up production monitoring without breaking the bank.</p>
+        <h3 style="margin-bottom:4px">Observabilidad sin presupuesto: Prometheus + Grafana para equipos pequeños</h3>
+        <span style="font-size:12px;color:var(--text-muted)">Próximamente</span>
+        <p style="margin-top:12px">Guía práctica para montar monitoreo en producción sin gastar de más.</p>
       </div>
     </div>
   </section>
 
   <footer class="footer">
     <div class="container footer-inner">
-      <span>&copy; 2026 Einier Freyre</span>
-      <a href="mailto:freyre.dev@gmail.com">freyre.dev@gmail.com</a>
+      <div class="footer-nav">
+        <a href="/">Inicio</a>
+        <a href="/blog/">Blog</a>
+        <a href="/privacy.html">Privacidad</a>
+        <a href="/terms.html">Términos</a>
+      </div>
+      <div class="footer-meta">
+        <span>&copy; 2026 Einier Freyre</span>
+        <a href="mailto:freyre.dev@gmail.com">freyre.dev@gmail.com</a>
+      </div>
     </div>
   </footer>
 
