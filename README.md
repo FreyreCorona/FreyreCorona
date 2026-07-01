@@ -44,4 +44,4 @@ Platform Engineer focused on cloud infrastructure, DevOps, and platform automati
 
 - LinkedIn: https://www.linkedin.com/in/einier-freyre-896981220
 - GitHub: https://github.com/FreyreCorona
-- Email: einierfreyre60@gmail.com
+- Email: freyre.dev@gmail.com
