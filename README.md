@@ -42,7 +42,7 @@ Platform Engineer focused on cloud infrastructure, DevOps, and platform automati
 
 ## 🌐 Website
 
-- [FreyreCorona.github.io](https://freyrecorona.github.io) — Landing page & blog
+- [FreyreCorona.github.io/FreyreCorona/](https://freyrecorona.github.io/FreyreCorona/) — Landing page & blog
 
 ## 🌐 Contact
 
