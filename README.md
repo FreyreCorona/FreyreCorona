@@ -25,7 +25,7 @@ Platform Engineer focused on cloud infrastructure, DevOps, and platform automati
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,postgres,redis,docker,kubernetes,terraform,oci,linux,githubactions,prometheus,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,postgres,redis,docker,kubernetes,terraform,linux,githubactions,prometheus,grafana)](https://skillicons.dev)
 
 ## 🌍 Open Source
 
