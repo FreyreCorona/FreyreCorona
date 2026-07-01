@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Einier Freyre – Cloud & DevOps Consulting</title>
+  <meta name="description" content="Platform Engineer specializing in Cloud Infrastructure, DevOps, and Platform Automation. Consulting for scalable, resilient systems." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="/" class="logo">EF</a>
+      <nav class="nav" id="nav">
+        <a href="#services" class="nav-link">Services</a>
+        <a href="#about" class="nav-link">About</a>
+        <a href="/blog/" class="nav-link">Blog</a>
+        <a href="#contact" class="nav-link btn-nav">Contact</a>
+      </nav>
+      <button class="menu-toggle" id="menuToggle" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container hero-content">
+      <div class="hero-badge">Available for consulting</div>
+      <h1 class="hero-title">Cloud & DevOps<br /><span class="gradient-text">Platform Engineering</span></h1>
+      <p class="hero-subtitle">
+        I help businesses design, build, and operate cloud-native platforms —
+        from infrastructure automation to production observability.
+      </p>
+      <div class="hero-cta">
+        <a href="#contact" class="btn btn-primary">Let's talk</a>
+        <a href="#services" class="btn btn-secondary">What I do</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="services" class="section">
+    <div class="container">
+      <h2 class="section-label">Services</h2>
+      <div class="services-grid">
+        <div class="service-card">
+          <div class="service-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 12L6 8M2 12L6 16M2 12H22M22 12L18 8M22 12L18 16"/><circle cx="12" cy="12" r="2"/></svg>
+          </div>
+          <h3>Cloud Infrastructure</h3>
+          <p>Terraform, Kubernetes, and automation-first provisioning across OCI and major cloud providers.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 7V17C4 18.1046 4.89543 19 6 19H18C19.1046 19 20 18.1046 20 17V7M4 7L12 13L20 7M4 7C4 5.89543 4.89543 5 6 5H18C19.1046 5 20 5.89543 20 7"/></svg>
+          </div>
+          <h3>DevOps &amp; CI/CD</h3>
+          <p>GitOps with ArgoCD, automated pipelines with GitHub Actions, and streamlined deployment workflows.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="3"/><path d="M12 1V5M12 19V23M5 12H1M23 12H19M18.36 5.64L15.54 8.46M8.46 15.54L5.64 18.36M18.36 18.36L15.54 15.54M8.46 8.46L5.64 5.64"/></svg>
+          </div>
+          <h3>Platform Automation</h3>
+          <p>Kubernetes operators, custom controllers, and internal platform tooling built in Go.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 12H15M9 16H15M9 8H15M7 3H17C18.1046 3 19 3.89543 19 5V21L12 18L5 21V5C5 3.89543 5.89543 3 7 3Z"/></svg>
+          </div>
+          <h3>Observability</h3>
+          <p>Prometheus, Grafana dashboards, telemetry instrumentation, and production monitoring strategies.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="section section-alt">
+    <div class="container about-grid">
+      <div class="about-text">
+        <h2 class="section-label">About</h2>
+        <p>
+          Platform Engineer with 6+ years building distributed systems. I specialize in cloud infrastructure,
+          Kubernetes, and Go — bridging the gap between development and operations to deliver reliable platforms.
+        </p>
+        <p>
+          I've led infrastructure migrations to IaC, built Kubernetes operators, implemented observability stacks,
+          and automated deployments end-to-end. Currently working at Colmena Technologies and running <strong>Fluxa</strong>,
+          a personal platform engineering project.
+        </p>
+        <div class="about-tech">
+          <span>Go</span><span>Terraform</span><span>Kubernetes</span><span>Docker</span>
+          <span>Prometheus</span><span>Grafana</span><span>CI/CD</span><span>OCI</span>
+        </div>
+      </div>
+      <div class="about-stats">
+        <div class="stat"><span class="stat-num">6+</span><span class="stat-label">Years building</span></div>
+        <div class="stat"><span class="stat-num">3</span><span class="stat-label">Cloud platforms</span></div>
+        <div class="stat"><span class="stat-num">20+</span><span class="stat-label">Projects delivered</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <div class="container contact-content">
+      <h2 class="section-label">Get in touch</h2>
+      <p class="contact-text">
+        Looking for cloud infrastructure consulting, DevOps setup, or platform architecture?
+        Let's talk about your next project.
+      </p>
+      <a href="mailto:freyre.dev@gmail.com" class="btn btn-primary btn-large">freyre.dev@gmail.com</a>
+      <div class="contact-links">
+        <a href="https://github.com/FreyreCorona" target="_blank" rel="noopener" class="contact-link">GitHub</a>
+        <a href="https://www.linkedin.com/in/einier-freyre-896981220/" target="_blank" rel="noopener" class="contact-link">LinkedIn</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <span>&copy; 2026 Einier Freyre</span>
+      <a href="mailto:freyre.dev@gmail.com">freyre.dev@gmail.com</a>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

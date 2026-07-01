@@ -40,6 +40,10 @@ Platform Engineer focused on cloud infrastructure, DevOps, and platform automati
 </p>
 
 
+## 🌐 Website
+
+- [FreyreCorona.github.io](https://freyrecorona.github.io) — Landing page & blog
+
 ## 🌐 Contact
 
 - LinkedIn: https://www.linkedin.com/in/einier-freyre-896981220
